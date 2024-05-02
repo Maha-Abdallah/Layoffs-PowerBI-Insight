@@ -38,3 +38,5 @@ Additional Insights:
 
 Analyze trends in layoffs across different industries and countries over time.
 By utilizing these data points and Power BI's visualization tools, I can gain valuable insights into layoff trends, allowing for informed decision-making.
+
+The results in in this PowerPoint and image.
